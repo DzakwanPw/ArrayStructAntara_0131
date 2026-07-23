@@ -28,6 +28,14 @@ int main()
     cout << endl;
 
 
+    //Menampilkan data dengan perintah satu persatu
+    cout << "data pertama = " << datamu[0] << endl;
+    cout << "data Kedua = " << datamu[1] << endl;
+    cout << "data Ketiga = " << datamu[2] << endl;
+    cout << "data Keempat = " << datamu[3] << endl;
+    cout << "data Kelima = " << datamu[4] << endl;
+    cout << endl;
+
 
 
 }
