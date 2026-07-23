@@ -13,4 +13,21 @@ int main()
     //Mengisi error
     dataku[1] = 200;
     cout << "Isi data kedua setelah diubah : " << dataku[1] << endl;
+
+    //Mengisi data dengan perintah satu perahu
+    cout << "Isikan data pertama : ";
+    cin >> datamu[0];
+    cout << "Tuliskan data kedua : ";
+    cin >> datamu [1];
+    cout << "Tuliskan data ketiga : ";
+    cin >> datamu [2];
+    cout << "Tuliskan data Keempat : ";
+    cin >> datamu [3];
+    cout << "Tuliskan data Kelima : ";
+    cin >> datamu [4];
+    cout << endl;
+
+
+
+
 }
